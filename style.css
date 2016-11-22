@@ -3180,7 +3180,6 @@ a.downlaod-infographic {
   background-size: cover;
   color: #fff;
   text-align: center;
-  margin-top: 100px;
 }
 .page-template-page-contact .section-contact p {
   margin-bottom: 30px;
@@ -3224,7 +3223,7 @@ a.downlaod-infographic {
   color: #FF621E;
 }
 .page-template-page-contact .section-contact-form {
-  padding: 70px calc(50% - 580px) 100px calc(50% - 580px);
+  padding: 70px calc(50% - 580px) 0px calc(50% - 580px);
 }
 .page-template-page-contact .section-contact-form .form {
   width: calc(100% - 80px);
@@ -3295,6 +3294,10 @@ a.downlaod-infographic {
 }
 .page-template-page-contact div#at4-share {
   display: none !important;
+}
+
+.page-template-page-contact #contactrequest input {
+  width: 32.33%;
 }
 
 /* HERO */
